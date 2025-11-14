@@ -1,6 +1,6 @@
 # Simple Python Program
 
-def greet(name):
+def get(name):
     return f"Hello, {name}!"
 
 print("Welcome to Python!")
